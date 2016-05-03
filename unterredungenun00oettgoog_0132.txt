@@ -1,0 +1,40 @@
+Anmerkungen.
+
+1) zu S. 20. Es ist auffallend, dass Galilei die Oohiision
+festor Kbrper doeh noch auf Hohlraume zurflckfuhren will nach
+den soeben vorgefflhrton interessanten Vorsuchen mit dem Was-
+ser. Wie dio unondlieho Zahl unendlich kleiner Hohlfflume eine
+Kraft hergeben sollo, die griisser ist, als die heim Wasser ge-
+messene (S. 15), wird nicht angedeutet. Hier wie dort kann der
+endliohe Querschnitt dos gedehnten Kbrpers allein maassgebend
+sein und fur die Cohasion des Marmore, die 5mal grbsser als
+die Oohfirenz des Wassers sein soll, wird keine Erklarung ge-
+wonnen.
+
+2) zu S. 25. Dio Erliiuterung dos Herrn Salviati ist sein
+
+und sinnig und steht nieht forn unseron modemen in der διείπον-
+sehon synthetisehen Geometrie vorgetragenen‘ Ansehauungen.
+Zwei verschiedene, beliebig grosse Streoken kijnnen stete gleioh
+viel Punkto haben3 dazu brauohen sie nur von einem Punkte aus
+projicirt zu werden, der durch den Durohschnitt derjenigenboiden
+
+Geraden bostimmt wird, die die Endon der gegebenen Streoken
+verbinden. So haben in der projectivisehen Geometrie auch zwei
+concentrisehe Kreise beliebiger Grbsse gloioh viel Punkte, wonn
+sie von einem Punkte im lunern auf einander bezogen werden.
+Soviel Radien¹ soviel Bogendiff01·entiale sind denkbar‚ wardon
+‘wir heuto sagon. Immerhin bleibt Galilei’s Wfflzung der Poly-
+gone und Kroise (Fig. 5) ein sinnreioher Einfall.
+
+3) zu Β. 28. Houte wardon wir sagon, Kegelbasis und Band
+sehrumpfen ein zu Punkt und Kreis, allein der Punkt ist ein
+Kreis mit unendlich kleinem Radius r, das Band dagegen hat bei
+endlichem, beliebig grossam Umfange 2π1 eine Breite b, die un-
+endlieh kloin zwoiter Ordnung ist, so dass
+
+mh = rcr²
+also 2h.l = r²‚ woduroh die Paradoxie sohwindot. Aehnlioh
+
+ 
+
